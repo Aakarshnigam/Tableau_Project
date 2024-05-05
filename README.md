@@ -14,3 +14,5 @@ Promotes operational excellence, facilitates workforce analytics, enables strate
 
 #**Conclusion:** 
 Empowers manufacturers to leverage data for competitive advantages in production efficiency and workforce optimization.
+
+![Uploading Manufacturing_dashboard.png…]()
